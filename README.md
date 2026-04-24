@@ -37,7 +37,13 @@ The core logic of this project is handled using n8n automation.
 https://github.com/your-username/smart-travel-alarm-backend
 
 ## 📱 APK
-APK will be added soon.
+Download APK here:
+https://drive.google.com/file/d/1Jne0fLKVHs6TZeq8-tLYPjj3Z0DDiQlf/view?usp=drive_link
+
+### 📥 Installation:
+1. Download APK  
+2. Enable "Install from unknown sources"  
+3. Install and open app  
 
 ## 👩‍💻 Author
 Vrunda Champaneria
