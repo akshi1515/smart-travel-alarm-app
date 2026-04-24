@@ -27,8 +27,14 @@ This app helps users avoid missing their stops by automatically triggering an al
 
 ## 🔗 Backend Workflow
 The core logic of this project is handled using n8n automation.
+### 🔄 Process Flow:
+1. Webhook receives live location from the app  
+2. Data is stored and managed in Supabase database  
+3. OSRM API calculates real-time distance to destination  
+4. When user is near destination, an alert is triggered via ntfy notification system  
 
-Backend workflow will be added soon.
+👉 Backend repository:  
+https://github.com/your-username/smart-travel-alarm-backend
 
 ## 📱 APK
 APK will be added soon.
